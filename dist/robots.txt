@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oushysbaiti-oss.github.io/eclatgala2026-ensaf/sitemap.xml
